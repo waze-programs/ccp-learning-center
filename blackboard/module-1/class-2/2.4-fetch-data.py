@@ -27,7 +27,7 @@ if __name__ == '__main__':
     data = get_data(url)
     
     # save data
-    path = Path(sys.argv[0]).resolve().parent.parent / 'data' / 'raw'
+    path = Path(sys.argv[0]).resolve().parent / 'data' / 'raw'
     json.dump(data, open(path / get_file_name(city), 'w'))
     
     print('Data Captured!')
