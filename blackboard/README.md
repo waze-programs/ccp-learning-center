@@ -1,6 +1,7 @@
 # Waze Blackboard
+By: [Alifer Sales](https://github.com/AliferSales), André Ormond and [João Carabetta](https://github.com/JoaoCarabetta)
 
-[Description]
+[Detailed description]
 
 ## Modules
 
