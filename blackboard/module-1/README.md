@@ -1,4 +1,4 @@
-### [Module 1](module-1)
+### Module 1
 
 [Description Module 1]
 
