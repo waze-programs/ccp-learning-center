@@ -1,4 +1,4 @@
-# Class 1
+# Class 1: Discovering the Waze data
 
 The first class introduce and explain what is the **Waze Data**. In the section 1 is introduced the **Waze** and the **Waze Connected Citizens Program** (CCP). The sections 2 and 3 briefly present the three data types available by Waze, **jams**, **alerts** and **irregularities**, through the Waze GeoAPI and show how the information displayed in the Waze App are turned in structured data. Then, The next three sections , 4, 5 and 6, explain in detail each of these data types and how they are returned.
 
@@ -13,19 +13,17 @@ Summarizing, this class has the following sections/videos:
 
 ---
 
-## Videos
-
-The 6 videos of this class are in the [`videos`](videos) folder.
-
 ## Notebook
 
 Each class has its own notebook with all the information and material of the videos. 
 
-You can access the notebook of this class by files [`1-Notebook.ipynb`](1-Notebook.ipynb) and [`1-Notebook.html`](1-Notebook.html).
+We recommend that you access the Google Colaboratory Notebook version, by [clicking here](https://colab.research.google.com/github/AliferSales/ccp-learning-center/blob/master/blackboard/module-1/class-1/1-Notebook.ipynb).
+
+If you prefer, access the notebook directly by github interface, using the file [`1-Notebook.ipynb`](1-Notebook.ipynb).
 
 ## Presentations
 
-The presentations used on the videos are in the [`presentations`](presentations) folder. The structure is
+You can access the presentations used on the videos on [`presentations`](presentations) folder. The structure is
 
 ```
 presentations/
