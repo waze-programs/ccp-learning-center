@@ -3,6 +3,9 @@
 [Description Module 1]
 
 #### [Class 1](class-1): Discovering the Waze data
+
+The first class introduce and explain what is the **Waze Data**. It is divided in 6 sections: 
+
 - 1-1.1 A quick introduction to Waze and Waze CCP
 - 1-1.2 From Waze map to data
 - 1-1.3 Structuring the data
@@ -21,3 +24,7 @@
 - 1-3.1 ---
 - 1-3.2 ---
 - 1-3.3 ---
+
+---
+
+Any suggestion or criticism is very welcome. To do that, [use our github issue page, by clicking here](https://github.com/waze-programs/ccp-learning-center/issues)
