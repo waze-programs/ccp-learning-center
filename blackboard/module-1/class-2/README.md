@@ -1,4 +1,4 @@
-# Class 1: Discovering the Waze data
+# Class 2: Capturing and storing the Waze data
 
 The purpose of this class is **capture and store the Waze data**. In sections 2 and 3 is teached how to get the data through the Waze GeoRSS API. Then, it showed how to capture automatically the data in the section 4 and, finally, in the section 5 the captured data is stored into a database.
 
