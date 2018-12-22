@@ -1,6 +1,6 @@
 # CCP Learning Center
 
-Hello! Very welcome to **Connected Citizens Program Learning Center**. Here, we preparee courses and learning tutorials with Waze data use cases. See below what we already prepared to you learnign.
+Hello! Very welcome to **Connected Citizens Program Learning Center**. Here, we prepare courses and learning tutorials with Waze data use cases. See below what we already prepared to you learn.
 
 ---
 
