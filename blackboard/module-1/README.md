@@ -20,10 +20,10 @@ The first class introduce and explain what is the **Waze Data**. It is divided i
 - 1-2.4 Capturing Waze Data with Python
 - 1-2.5 Storing the data on database
 
-#### [Class 3](class-3)
-- 1-3.1 ---
-- 1-3.2 ---
-- 1-3.3 ---
+### [Class 3](class-3): Viewing the Waze data
+- 1-3.1 Making queries with DBeaver
+- 1-3.2 QGIS
+- 1-3.3 Queries with Python
 
 ---
 
