@@ -1,4 +1,4 @@
-# Class 3: Capturing and storing the Waze data
+# Class 3: Quering the Waze data
 
 This class shows different ways of how to connect to the database and use the Waze Data. In the first section, it's used the SQL client and database tool DBeaver to make queries. Then, section 2 present the free and open source cross-platform desktop Geographic Information System QGIS to create a alerts data view and Python and Pandas is used to access the waze data, in section 3.
 
